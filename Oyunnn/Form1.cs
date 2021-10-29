@@ -18,7 +18,7 @@ namespace Oyunnn
         }
         int puan;
         Mayin_tarlasi mayin_tarlamiz;
-        Image mayin_Resmi = Image.FromFile(@"mayin.png");
+        Image mayin_Resmi = Image.FromFile(@"C:\Users\samet\Downloads\mayin.png.png");
         List<Mayin> mayinlarimiz;
         int bulunan_temiz_alan;
         private void Form1_Load(object sender, EventArgs e)
