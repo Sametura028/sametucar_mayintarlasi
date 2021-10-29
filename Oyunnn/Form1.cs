@@ -60,7 +60,7 @@ namespace Oyunnn
             Button btn = (sender as Button);
             if (e.Button == MouseButtons.Right)
             {
-                btn.Text = "!";
+                btn.Text = "!!!";
 
             }
         }
